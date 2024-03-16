@@ -7,7 +7,6 @@
 | [minisora](https://github.com/mini-sora/minisora)  | minisora | https://github.com/mini-sora/minisora|
 | [Open-Sora](https://github.com/hpcaitech/Open-Sora)  | Open-Sora | https://github.com/hpcaitech/Open-Sora|
 | [Awesome-Open-AI-Sora](https://github.com/Curated-Awesome-Lists/Awesome-Open-AI-Sora)  | Awesome-Open-AI-Sora | https://github.com/Curated-Awesome-Lists/Awesome-Open-AI-Sora|
-
 | [A Survery on Video Diffusion Models](https://aicarrier.feishu.cn/file/Ds0BbCAo6oTazdxxo3Zciw1Nnne)  | OpenMMLab 文档 | -|
 | [Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models/tree/main)  | T2V Generation | https://github.com/ChenHsing/Awesome-Video-Diffusion-Models/tree/main|
 | [Sora](https://openai.com/sora)  | T2V Generation & Editing | -|
