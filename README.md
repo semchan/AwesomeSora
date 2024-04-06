@@ -11,3 +11,6 @@
 | [Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models/tree/main)  | T2V Generation | https://github.com/ChenHsing/Awesome-Video-Diffusion-Models/tree/main|
 | [Sora](https://openai.com/sora)  | T2V Generation & Editing | -|
 | [VideoPoet](https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html)  | T2V Generation & Editing | -|
+| [MotionDirector](https://github.com/showlab/MotionDirector)  | T2V Editing 微调 | https://github.com/showlab/MotionDirector|
+| [Text-To-Video-Finetuning](https://github.com/ExponentialML/Text-To-Video-Finetuning)  | T2V Editing 微调| https://github.com/ExponentialML/Text-To-Video-Finetuning|
+
