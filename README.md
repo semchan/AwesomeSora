@@ -13,4 +13,6 @@
 | [VideoPoet](https://blog.research.google/2023/12/videopoet-large-language-model-for-zero.html)  | T2V Generation & Editing | -|
 | [MotionDirector](https://github.com/showlab/MotionDirector)  | T2V Editing 微调 | https://github.com/showlab/MotionDirector|
 | [Text-To-Video-Finetuning](https://github.com/ExponentialML/Text-To-Video-Finetuning)  | T2V Editing 微调| https://github.com/ExponentialML/Text-To-Video-Finetuning|
+| [StableDiffusionXLVideo](https://github.com/motexture/StableDiffusionXLVideo)  | T2V Editing 微调| https://github.com/motexture/StableDiffusionXLVideo|
+
 
